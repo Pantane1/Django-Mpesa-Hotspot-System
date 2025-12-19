@@ -1,0 +1,7 @@
+{
+  "name": "Django-Mpesa Hotspot System",
+  "description": "A comprehensive Wi-Fi hotspot captive portal and management dashboard with Django backend architecture and M-Pesa Daraja API integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
